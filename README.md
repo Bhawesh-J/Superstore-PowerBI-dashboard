@@ -1,2 +1,2 @@
 # Superstore-powerbi-dashboard
-Interactive PowerBI dashboard using Superstore as a data sample.
+Interactive PowerBI dashboard using Superstore data as a data sample.
