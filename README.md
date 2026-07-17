@@ -4,7 +4,7 @@
 
 This Superstore project analyses the retail sales data using PowerBI to generate insights about the company's Sales, Product and Customer performance across various states and regions.
 
-This Dashboard uses various measures such as DAX calculations and inteactive visualization to transform raw data so to generate meaningful business insights. 
+This Dashboard uses various measures such as DAX calculations and interactive visualization to transform raw data so to generate meaningful business insights. 
 
 **DASHBOARD PREVIEW**
 <img width="1920" height="1080" alt="overview" src="https://github.com/user-attachments/assets/f427a771-4501-4ab5-afb4-cf5d74445a7a" />
@@ -115,7 +115,17 @@ YOY Growth % = DIVIDE([sales] - [Sales last year], [Sales last year], BLANK())
 
 - Technology Segment has the highest contribution to Sales and Profit
 - 2 of the Top 5 revenue generation products drive losses but overall the top revenue generation products have good profit margins.
-- Consumer Segment makes about 50% of total customer segment.
 - Furniture segment's almost all of the losses were accounted for the losses incurred on sales of Tables which is the heaviest loss making sub-category.
 - Technology Segment has the least ordered items which means that per item profit generation and revenue is very good as compared to Office supplies which has the highest recorded ordered items considering that both segments have around same profit margins.
-- Surprisingly the top customers by revenue tend to be the one generating most profit which means that they might be purchasing from Technology and Office supplies Segment. The segment distribution among customers can be cleared more by aggregating the total quantities they have ordered where less quantity and more profit means that they are somewhat more into technology segment.
+- Surprisingly the top customers by revenue tend to be the one generating most profit which means that they might be purchasing from Technology and Office supplies Segment. The segment distribution among top customers can be cleared more by aggregating the total quantities they have ordered, where less quantity and more profit means that they are somewhat more into technology segment.
+- East and West Region seem to be having more customers as they consistently generate more revenue and profit.
+
+## **Skills Demonstrated**
+
+- Data Cleaning
+- Data Modeling
+- Data Interpretation
+- DAX Calculations
+- Interactive Design
+- Business Analysis
+- Data Storytelling
