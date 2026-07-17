@@ -19,6 +19,8 @@ This Dashboard uses various measures such as DAX calculations and interactive vi
 
 Dataset - Sample Superstore Dataset
 
+https://github.com/Joshi1104/Superstore-powerbi-dashboard/blob/main/superstore_cleaned_data.csv
+
 The dataset contains retail transactions across columns including:
 - Orders
 - Customers
