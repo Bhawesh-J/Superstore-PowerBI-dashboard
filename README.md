@@ -116,7 +116,7 @@ YOY Growth % = DIVIDE([sales] - [Sales last year], [Sales last year], BLANK())
 ## **Key Insights**
 
 - Technology Segment has the highest contribution to Sales and Profit
-- 2 of the Top 5 revenue generation products drive losses but overall the top revenue generation products have good profit margins.
+- 2 of the Top 5 revenue generating products drive losses but overall the top revenue generating products have good profit margins.
 - Furniture segment's almost all of the losses were accounted for the losses incurred on sales of Tables which is the heaviest loss making sub-category.
 - Technology Segment has the least ordered items which means that per item profit generation and revenue is very good as compared to Office supplies which has the highest recorded ordered items considering that both segments have around same profit margins.
 - Surprisingly the top customers by revenue tend to be the one generating most profit which means that they might be purchasing from Technology and Office supplies Segment. The segment distribution among top customers can be cleared more by aggregating the total quantities they have ordered, where less quantity and more profit means that they are somewhat more into technology segment.
