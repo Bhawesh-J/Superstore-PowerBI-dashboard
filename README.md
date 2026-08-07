@@ -4,7 +4,7 @@
 
 This Superstore project analyses the retail sales data using PowerBI to generate insights about the company's Sales, Product and Customer performance across various states and regions.
 
-This Dashboard uses various measures such as DAX calculations and interactive visualization to transform raw data so to generate meaningful business insights. 
+This Dashboard uses various measures such as DAX calculations and interactive visualization to transform raw data so to generate meaningful business insights.
 
 **DASHBOARD PREVIEW**
 <img width="1920" height="1080" alt="overview" src="https://github.com/user-attachments/assets/f427a771-4501-4ab5-afb4-cf5d74445a7a" />
