@@ -2,12 +2,13 @@
 
 **Project Overview**
 
-This Superstore project analyses the retail sales data using PowerBI to generate insights about the company's Sales, Product and Customer performance across various states and regions.
+This Superstore project analyses 9000 rows of retail sales data using PowerBI to generate insights about the company's Sales, Product and Customer performance across various states and regions.
 
 This Dashboard uses various measures such as DAX calculations and interactive visualization to transform raw data so to generate meaningful business insights.
 
 **DASHBOARD PREVIEW**
-<img width="1920" height="1080" alt="overview" src="https://github.com/user-attachments/assets/f427a771-4501-4ab5-afb4-cf5d74445a7a" />
+<img width="1604" height="896" alt="Overview" src="https://github.com/user-attachments/assets/f28eab70-64e2-4d94-ae6c-c03ce83c7d41" />
+
 **Tools Used**
 - Microsoft PowerBI
 - DAX Calculation
@@ -47,7 +48,7 @@ Provides the summary of overall business performace.
 - Profit Margin
 - Quantity Sold
 
-<img width="1920" height="1080" alt="overview" src="https://github.com/user-attachments/assets/f427a771-4501-4ab5-afb4-cf5d74445a7a" />
+<img width="1604" height="896" alt="Overview" src="https://github.com/user-attachments/assets/5ca06ddf-94fa-4870-920f-8553520e9eae" />
 
 **2. Time Analysis**
 
@@ -60,7 +61,7 @@ Analyses Sales and Profit based on Yearly, Quarterly and Monthly trends.
 - YOY Growth % based on Sales
 - Year and Month wise Sales and Profit
 - Quarterly Perfomance
-<img width="1920" height="1080" alt="Time Analysis" src="https://github.com/user-attachments/assets/371a6d1a-db7e-484d-8381-d0162388e6e9" />
+<img width="1590" height="888" alt="Time Analysis" src="https://github.com/user-attachments/assets/ada6f17e-1acb-4cce-b5da-dea06eda23d9" />
 
 **3. Product Analysis**
 
@@ -73,7 +74,7 @@ Identify Best and Worst performing products based on sales and Profit generation
  - Products with Maximum revenue generation
  - Total contribution of Top Products in Profit Generation
  - Most Profitable and Revenue Generation Products across several Regions
-<img width="1920" height="1080" alt="Product Analysis" src="https://github.com/user-attachments/assets/fc27af46-a4bf-4218-b1b4-4c1cddb4a3af" />
+<img width="1588" height="889" alt="Product Analysis" src="https://github.com/user-attachments/assets/8ce41d7b-0333-4df0-a49b-bd3f6945907d" />
 
 **4. Customer & Geographic Analysis**
 
@@ -85,7 +86,7 @@ Understand the Customer relationship with products and Identify High-value custo
 - Top Profit generating Customers
 - Most valueable customters according to Total sales, Number of orders and Profit Generation
 - State wise Sales and Profitability
-<img width="1920" height="1080" alt="Customer  Analysis" src="https://github.com/user-attachments/assets/727f2cac-56b2-40b9-aac9-07c3e90b7c83" />
+<img width="1589" height="886" alt="Customer Analysis" src="https://github.com/user-attachments/assets/b9a16c76-b8a7-4390-8dfb-554fb5903119" />
 
 
 ## **Data Modelling and Calculations**
